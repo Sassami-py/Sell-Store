@@ -1,0 +1,11 @@
+item,size,price,stock,category
+apple,1,5,20,food store
+bread,1,5,20,food store
+chicken,2,8,7,food store
+rusty sword,3,25,2,swordsmith
+sword,3,50,3,swordsmith
+little knife,1,10,5,swordsmith
+arrow,2,5,20,swordsmith
+bow,3,12,3,swordsmith
+healing potion,2,15,9,potions store
+power potion,2,15,7,potions store
